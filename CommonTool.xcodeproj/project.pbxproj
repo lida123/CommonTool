@@ -17,6 +17,26 @@
 		9C9AE2A824611A820050FC8F /* DDNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C9AE2A324611A810050FC8F /* DDNumber.m */; };
 		9C9AE2A924611A820050FC8F /* DDRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C9AE2A524611A810050FC8F /* DDRange.m */; };
 		9C9AE2AA24611A820050FC8F /* DDData.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C9AE2A724611A820050FC8F /* DDData.m */; };
+		9CB22F1224C40EDF0041D78B /* ImageUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F0424C40EDE0041D78B /* ImageUtil.m */; };
+		9CB22F1324C40EDF0041D78B /* UIImage+SplitImageIntoTwoParts.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F0724C40EDF0041D78B /* UIImage+SplitImageIntoTwoParts.m */; };
+		9CB22F1424C40EDF0041D78B /* UIImage+Cut.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F0A24C40EDF0041D78B /* UIImage+Cut.m */; };
+		9CB22F1524C40EDF0041D78B /* UIImage+Alpha.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F0D24C40EDF0041D78B /* UIImage+Alpha.m */; };
+		9CB22F1624C40EDF0041D78B /* UIImage+RoundedCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F0F24C40EDF0041D78B /* UIImage+RoundedCorner.m */; };
+		9CB22F1724C40EDF0041D78B /* UIImage+Resize.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F1024C40EDF0041D78B /* UIImage+Resize.m */; };
+		9CB22F1B24C4133C0041D78B /* WTKQRCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F1A24C4133C0041D78B /* WTKQRCode.m */; };
+		9CB22F2524C4148A0041D78B /* w_star_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CB22F1D24C4148A0041D78B /* w_star_red.png */; };
+		9CB22F2624C4148A0041D78B /* WTKStarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F1E24C4148A0041D78B /* WTKStarView.m */; };
+		9CB22F2724C4148A0041D78B /* w_star_white@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CB22F1F24C4148A0041D78B /* w_star_white@3x.png */; };
+		9CB22F2824C4148A0041D78B /* w_star_red@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CB22F2024C4148A0041D78B /* w_star_red@3x.png */; };
+		9CB22F2924C4148A0041D78B /* w_star_red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CB22F2124C4148A0041D78B /* w_star_red@2x.png */; };
+		9CB22F2A24C4148A0041D78B /* w_star_white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CB22F2224C4148A0041D78B /* w_star_white@2x.png */; };
+		9CB22F2B24C4148A0041D78B /* w_star_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CB22F2324C4148A0041D78B /* w_star_white.png */; };
+		9CB22F3924C418D80041D78B /* UIColor+WTK.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F2D24C418D70041D78B /* UIColor+WTK.m */; };
+		9CB22F3A24C418D80041D78B /* UIFont+WTK.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F2E24C418D70041D78B /* UIFont+WTK.m */; };
+		9CB22F3B24C418D80041D78B /* UIImage+WTK.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F3124C418D80041D78B /* UIImage+WTK.m */; };
+		9CB22F3C24C418D80041D78B /* UILabel+WTK.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F3224C418D80041D78B /* UILabel+WTK.m */; };
+		9CB22F3D24C418D80041D78B /* UIButton+WTKBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F3324C418D80041D78B /* UIButton+WTKBtn.m */; };
+		9CB22F3E24C418D80041D78B /* UITextField+WTK.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CB22F3724C418D80041D78B /* UITextField+WTK.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +58,41 @@
 		9C9AE2A524611A810050FC8F /* DDRange.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDRange.m; sourceTree = "<group>"; };
 		9C9AE2A624611A810050FC8F /* DDRange.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDRange.h; sourceTree = "<group>"; };
 		9C9AE2A724611A820050FC8F /* DDData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDData.m; sourceTree = "<group>"; };
+		9CB22F0424C40EDE0041D78B /* ImageUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageUtil.m; sourceTree = "<group>"; };
+		9CB22F0524C40EDE0041D78B /* ColorMatrix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorMatrix.h; sourceTree = "<group>"; };
+		9CB22F0724C40EDF0041D78B /* UIImage+SplitImageIntoTwoParts.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+SplitImageIntoTwoParts.m"; sourceTree = "<group>"; };
+		9CB22F0824C40EDF0041D78B /* UIImage+RoundedCorner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+RoundedCorner.h"; sourceTree = "<group>"; };
+		9CB22F0924C40EDF0041D78B /* UIImage+Resize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Resize.h"; sourceTree = "<group>"; };
+		9CB22F0A24C40EDF0041D78B /* UIImage+Cut.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Cut.m"; sourceTree = "<group>"; };
+		9CB22F0B24C40EDF0041D78B /* UIImage+Alpha.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Alpha.h"; sourceTree = "<group>"; };
+		9CB22F0C24C40EDF0041D78B /* UIImage+SplitImageIntoTwoParts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+SplitImageIntoTwoParts.h"; sourceTree = "<group>"; };
+		9CB22F0D24C40EDF0041D78B /* UIImage+Alpha.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Alpha.m"; sourceTree = "<group>"; };
+		9CB22F0E24C40EDF0041D78B /* UIImage+Cut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Cut.h"; sourceTree = "<group>"; };
+		9CB22F0F24C40EDF0041D78B /* UIImage+RoundedCorner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+RoundedCorner.m"; sourceTree = "<group>"; };
+		9CB22F1024C40EDF0041D78B /* UIImage+Resize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Resize.m"; sourceTree = "<group>"; };
+		9CB22F1124C40EDF0041D78B /* ImageUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageUtil.h; sourceTree = "<group>"; };
+		9CB22F1924C4133C0041D78B /* WTKQRCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTKQRCode.h; sourceTree = "<group>"; };
+		9CB22F1A24C4133C0041D78B /* WTKQRCode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTKQRCode.m; sourceTree = "<group>"; };
+		9CB22F1D24C4148A0041D78B /* w_star_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = w_star_red.png; sourceTree = "<group>"; };
+		9CB22F1E24C4148A0041D78B /* WTKStarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTKStarView.m; sourceTree = "<group>"; };
+		9CB22F1F24C4148A0041D78B /* w_star_white@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "w_star_white@3x.png"; sourceTree = "<group>"; };
+		9CB22F2024C4148A0041D78B /* w_star_red@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "w_star_red@3x.png"; sourceTree = "<group>"; };
+		9CB22F2124C4148A0041D78B /* w_star_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "w_star_red@2x.png"; sourceTree = "<group>"; };
+		9CB22F2224C4148A0041D78B /* w_star_white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "w_star_white@2x.png"; sourceTree = "<group>"; };
+		9CB22F2324C4148A0041D78B /* w_star_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = w_star_white.png; sourceTree = "<group>"; };
+		9CB22F2424C4148A0041D78B /* WTKStarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTKStarView.h; sourceTree = "<group>"; };
+		9CB22F2D24C418D70041D78B /* UIColor+WTK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+WTK.m"; sourceTree = "<group>"; };
+		9CB22F2E24C418D70041D78B /* UIFont+WTK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIFont+WTK.m"; sourceTree = "<group>"; };
+		9CB22F2F24C418D70041D78B /* UIFont+WTK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIFont+WTK.h"; sourceTree = "<group>"; };
+		9CB22F3024C418D70041D78B /* UIColor+WTK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+WTK.h"; sourceTree = "<group>"; };
+		9CB22F3124C418D80041D78B /* UIImage+WTK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+WTK.m"; sourceTree = "<group>"; };
+		9CB22F3224C418D80041D78B /* UILabel+WTK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+WTK.m"; sourceTree = "<group>"; };
+		9CB22F3324C418D80041D78B /* UIButton+WTKBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+WTKBtn.m"; sourceTree = "<group>"; };
+		9CB22F3424C418D80041D78B /* UIImage+WTK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+WTK.h"; sourceTree = "<group>"; };
+		9CB22F3524C418D80041D78B /* UITextField+WTK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+WTK.h"; sourceTree = "<group>"; };
+		9CB22F3624C418D80041D78B /* UIButton+WTKBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+WTKBtn.h"; sourceTree = "<group>"; };
+		9CB22F3724C418D80041D78B /* UITextField+WTK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+WTK.m"; sourceTree = "<group>"; };
+		9CB22F3824C418D80041D78B /* UILabel+WTK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+WTK.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +144,10 @@
 		9C9AE2A124611A240050FC8F /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				9CB22F2C24C4175A0041D78B /* UIView-Extension */,
+				9CB22F1C24C414750041D78B /* WTKStar */,
+				9CB22F1824C413280041D78B /* WTKQRCode */,
+				9CB22F0324C40EDE0041D78B /* Lib */,
 				9C9AE2A224611A810050FC8F /* DDData.h */,
 				9C9AE2A724611A820050FC8F /* DDData.m */,
 				9C9AE2A424611A810050FC8F /* DDNumber.h */,
@@ -97,6 +156,77 @@
 				9C9AE2A524611A810050FC8F /* DDRange.m */,
 			);
 			path = Category;
+			sourceTree = "<group>";
+		};
+		9CB22F0324C40EDE0041D78B /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				9CB22F0424C40EDE0041D78B /* ImageUtil.m */,
+				9CB22F0524C40EDE0041D78B /* ColorMatrix.h */,
+				9CB22F0624C40EDF0041D78B /* UIImage-Extensions */,
+				9CB22F1124C40EDF0041D78B /* ImageUtil.h */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
+		9CB22F0624C40EDF0041D78B /* UIImage-Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				9CB22F0724C40EDF0041D78B /* UIImage+SplitImageIntoTwoParts.m */,
+				9CB22F0824C40EDF0041D78B /* UIImage+RoundedCorner.h */,
+				9CB22F0924C40EDF0041D78B /* UIImage+Resize.h */,
+				9CB22F0A24C40EDF0041D78B /* UIImage+Cut.m */,
+				9CB22F0B24C40EDF0041D78B /* UIImage+Alpha.h */,
+				9CB22F0C24C40EDF0041D78B /* UIImage+SplitImageIntoTwoParts.h */,
+				9CB22F0D24C40EDF0041D78B /* UIImage+Alpha.m */,
+				9CB22F0E24C40EDF0041D78B /* UIImage+Cut.h */,
+				9CB22F0F24C40EDF0041D78B /* UIImage+RoundedCorner.m */,
+				9CB22F1024C40EDF0041D78B /* UIImage+Resize.m */,
+			);
+			path = "UIImage-Extensions";
+			sourceTree = "<group>";
+		};
+		9CB22F1824C413280041D78B /* WTKQRCode */ = {
+			isa = PBXGroup;
+			children = (
+				9CB22F1924C4133C0041D78B /* WTKQRCode.h */,
+				9CB22F1A24C4133C0041D78B /* WTKQRCode.m */,
+			);
+			path = WTKQRCode;
+			sourceTree = "<group>";
+		};
+		9CB22F1C24C414750041D78B /* WTKStar */ = {
+			isa = PBXGroup;
+			children = (
+				9CB22F1D24C4148A0041D78B /* w_star_red.png */,
+				9CB22F2124C4148A0041D78B /* w_star_red@2x.png */,
+				9CB22F2024C4148A0041D78B /* w_star_red@3x.png */,
+				9CB22F2324C4148A0041D78B /* w_star_white.png */,
+				9CB22F2224C4148A0041D78B /* w_star_white@2x.png */,
+				9CB22F1F24C4148A0041D78B /* w_star_white@3x.png */,
+				9CB22F2424C4148A0041D78B /* WTKStarView.h */,
+				9CB22F1E24C4148A0041D78B /* WTKStarView.m */,
+			);
+			path = WTKStar;
+			sourceTree = "<group>";
+		};
+		9CB22F2C24C4175A0041D78B /* UIView-Extension */ = {
+			isa = PBXGroup;
+			children = (
+				9CB22F3624C418D80041D78B /* UIButton+WTKBtn.h */,
+				9CB22F3324C418D80041D78B /* UIButton+WTKBtn.m */,
+				9CB22F3024C418D70041D78B /* UIColor+WTK.h */,
+				9CB22F2D24C418D70041D78B /* UIColor+WTK.m */,
+				9CB22F2F24C418D70041D78B /* UIFont+WTK.h */,
+				9CB22F2E24C418D70041D78B /* UIFont+WTK.m */,
+				9CB22F3424C418D80041D78B /* UIImage+WTK.h */,
+				9CB22F3124C418D80041D78B /* UIImage+WTK.m */,
+				9CB22F3824C418D80041D78B /* UILabel+WTK.h */,
+				9CB22F3224C418D80041D78B /* UILabel+WTK.m */,
+				9CB22F3524C418D80041D78B /* UITextField+WTK.h */,
+				9CB22F3724C418D80041D78B /* UITextField+WTK.m */,
+			);
+			path = "UIView-Extension";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -156,9 +286,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CB22F2A24C4148A0041D78B /* w_star_white@2x.png in Resources */,
+				9CB22F2B24C4148A0041D78B /* w_star_white.png in Resources */,
 				9C9AE298246116F30050FC8F /* LaunchScreen.storyboard in Resources */,
+				9CB22F2724C4148A0041D78B /* w_star_white@3x.png in Resources */,
 				9C9AE295246116F30050FC8F /* Assets.xcassets in Resources */,
+				9CB22F2924C4148A0041D78B /* w_star_red@2x.png in Resources */,
+				9CB22F2824C4148A0041D78B /* w_star_red@3x.png in Resources */,
 				9C9AE293246116EE0050FC8F /* Main.storyboard in Resources */,
+				9CB22F2524C4148A0041D78B /* w_star_red.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,13 +305,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CB22F1B24C4133C0041D78B /* WTKQRCode.m in Sources */,
+				9CB22F3A24C418D80041D78B /* UIFont+WTK.m in Sources */,
 				9C9AE290246116EE0050FC8F /* ViewController.m in Sources */,
+				9CB22F3D24C418D80041D78B /* UIButton+WTKBtn.m in Sources */,
 				9C9AE28A246116EE0050FC8F /* AppDelegate.m in Sources */,
 				9C9AE2AA24611A820050FC8F /* DDData.m in Sources */,
 				9C9AE29B246116F30050FC8F /* main.m in Sources */,
+				9CB22F2624C4148A0041D78B /* WTKStarView.m in Sources */,
+				9CB22F3924C418D80041D78B /* UIColor+WTK.m in Sources */,
+				9CB22F1624C40EDF0041D78B /* UIImage+RoundedCorner.m in Sources */,
+				9CB22F1424C40EDF0041D78B /* UIImage+Cut.m in Sources */,
 				9C9AE2A924611A820050FC8F /* DDRange.m in Sources */,
 				9C9AE2A824611A820050FC8F /* DDNumber.m in Sources */,
+				9CB22F3C24C418D80041D78B /* UILabel+WTK.m in Sources */,
+				9CB22F3E24C418D80041D78B /* UITextField+WTK.m in Sources */,
+				9CB22F3B24C418D80041D78B /* UIImage+WTK.m in Sources */,
+				9CB22F1524C40EDF0041D78B /* UIImage+Alpha.m in Sources */,
 				9C9AE28D246116EE0050FC8F /* SceneDelegate.m in Sources */,
+				9CB22F1724C40EDF0041D78B /* UIImage+Resize.m in Sources */,
+				9CB22F1224C40EDF0041D78B /* ImageUtil.m in Sources */,
+				9CB22F1324C40EDF0041D78B /* UIImage+SplitImageIntoTwoParts.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
